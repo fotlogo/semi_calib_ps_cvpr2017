@@ -4,7 +4,7 @@ Mostly compiled matlab code for Semi-calibrated Near Field Photometric Stereo. T
 Full source code will be released eventually after we complete some improvements. For the meantime, you can incorporate the executable in your code.
 
 If you use this code, please cite the following paper:
-@inproceedings{logothetis2016near,
+@inproceedings{logothetis2017semi,
   title={Semi-calibrated Near Field Photometric Stereo},
   author={Logothetis, Fotios and Mecca, Roberto and Cipolla, Roberto},
   booktitle={Conference on Computer Vision and Pattern Recognition (CVPR)},
