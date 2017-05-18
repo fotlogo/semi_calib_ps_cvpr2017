@@ -2,6 +2,7 @@
 
 Mostly compiled matlab code for Semi-calibrated Near Field Photometric Stereo. To use with your data and adjust parameters edit the run_demo.m file. 
 Full source code will be released eventually after we complete some improvements. For the meantime, you can incorporate the executable in your code.
+
 If you use this code, please cite the following paper:
 @inproceedings{logothetis2016near,
   title={Semi-calibrated Near Field Photometric Stereo},
